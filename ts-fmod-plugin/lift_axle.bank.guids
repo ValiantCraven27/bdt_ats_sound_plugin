@@ -1,0 +1,7 @@
+{6f3c49c4-f3e3-4b8f-ad89-9cf9a19ec7e9} bank:/lift_axle
+{1315eda7-1829-4dd8-9d1a-176f65637ab2} bank:/master
+{8b08cd73-6952-019a-1b53-9d9194907c2a} bank:/master.strings
+{e3504ea4-e791-43dd-af0b-beb87e487892} bus:/
+{e1971d04-d92f-4cea-af21-23071f19e96e} event:/lift_axle
+{1276261c-d405-421f-b0bd-bc69a42da40c} event:/lift_axle_switch
+{bffeba56-e7d7-49fc-bd6e-70343f525c22} parameter:/Distance
