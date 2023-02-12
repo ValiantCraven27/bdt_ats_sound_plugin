@@ -4,13 +4,13 @@
 
 
 
--- Selected.bank text --
-kenworth_w900 - Engine
+- Selected.bank 
+- kenworth_w900 - Engine
 cummins_isx_sp_rm - Running Motor - RM
 edgt_isxop
 i9800_isx_rm
 
--- Do Not Edit --
+- Do Not Edit 
 
 air_compressor
 brake.effects
@@ -21,3 +21,4 @@ air_horns
 road_noise
 trailer_coupling
 
+- sound_level text you can change the volume
