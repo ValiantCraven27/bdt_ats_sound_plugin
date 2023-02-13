@@ -1,6 +1,6 @@
 # bdt_engine_sound_plugin
 - open selected.bank text to change engines sounds
-- Engines have two files regular engine sound and running motor soun. You'll need one of each you can mix and match how you like, If you break the plugin I will not provide support just redownload. 
+- Engines have two files regular engine sound and running motor sound. You'll need one of each you can mix and match how you like, If you break the plugin I will not provide support just redownload. 
 
 
 - Selected.bank text file
